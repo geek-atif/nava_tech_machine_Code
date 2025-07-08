@@ -5,10 +5,10 @@
 // 'flutter create' template.
 
 // The application's name. By default this is also the title of the Flutter window.
-PRODUCT_NAME = nava_tech_machine_code
+PRODUCT_NAME = nava_tech
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.navatech.navaTechMachineCode
+PRODUCT_BUNDLE_IDENTIFIER = com.example.navaTech
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2025 com.example.nava_tech. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2025 com.example. All rights reserved.

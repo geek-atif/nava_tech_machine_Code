@@ -1,4 +1,4 @@
-package com.example.nava_tech.nava_tech_machine_code
+package com.example.nava_tech
 
 import io.flutter.embedding.android.FlutterActivity
 

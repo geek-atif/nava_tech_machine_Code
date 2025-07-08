@@ -89,13 +89,13 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example.nava_tech" "\0"
-            VALUE "FileDescription", "nava_tech_machine_code" "\0"
+            VALUE "CompanyName", "com.example" "\0"
+            VALUE "FileDescription", "nava_tech" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "nava_tech_machine_code" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2025 com.example.nava_tech. All rights reserved." "\0"
-            VALUE "OriginalFilename", "nava_tech_machine_code.exe" "\0"
-            VALUE "ProductName", "nava_tech_machine_code" "\0"
+            VALUE "InternalName", "nava_tech" "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2025 com.example. All rights reserved." "\0"
+            VALUE "OriginalFilename", "nava_tech.exe" "\0"
+            VALUE "ProductName", "nava_tech" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

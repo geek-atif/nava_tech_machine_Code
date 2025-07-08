@@ -6,9 +6,9 @@ plugins {
 }
 
 android {
-    namespace = "com.example.nava_tech.nava_tech_machine_code"
+    namespace = "com.example.nava_tech"
     compileSdk = flutter.compileSdkVersion
-    ndkVersion = flutter.ndkVersion
+    ndkVersion = "27.0.12077973"
 
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
@@ -21,7 +21,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.example.nava_tech.nava_tech_machine_code"
+        applicationId = "com.example.nava_tech"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion
